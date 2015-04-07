@@ -2,6 +2,9 @@
 logs
 *.log
 
+#token
+shell_access_token
+
 # Runtime data
 pids
 *.pid
